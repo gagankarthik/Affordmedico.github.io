@@ -1,3 +1,3 @@
 # Affordmedico
 
-this is a webpage designed to donate unused medicines
+This is a webpage designed to donate unused medicines
